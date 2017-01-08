@@ -1,0 +1,38 @@
+﻿<views:BaseView
+    x:Class="MvxNuExample.UWP.Views.MenuView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MvxNuExample.UWP"
+    xmlns:views="using:MvxNuExample.UWP.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:MvxNuExample.UWP.Controls"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <DataTemplate x:Key="NavMenuItemTemplate"                               >
+            <Grid x:ConnectionId='1'>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="48" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <FontIcon x:ConnectionId='2' x:Name="Glyph" FontSize="16"                               VerticalAlignment="Center" HorizontalAlignment="Center"                                        />
+                <TextBlock x:ConnectionId='3' x:Name="Text" Grid.Column="1"                       Style="{StaticResource BodyTextBlockStyle}" TextWrapping="NoWrap"/>
+            </Grid>
+        </DataTemplate>
+
+    </Page.Resources>
+
+    <Grid>
+        <controls:NavMenuListView x:ConnectionId='4'
+			x:Name="NavMenuList"
+			TabIndex="3"
+			Margin="0,52,0,0"
+			                                                              
+			ItemContainerStyle="{StaticResource NavMenuItemContainerStyle}"
+			ItemTemplate="{StaticResource NavMenuItemTemplate}"
+			                                      ManipulationMode="None" />
+    </Grid>
+</views:BaseView>
+

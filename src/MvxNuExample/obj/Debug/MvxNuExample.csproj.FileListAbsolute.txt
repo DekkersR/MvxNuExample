@@ -1,0 +1,86 @@
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\MvxNuExample.dll.config
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\MvxNuExample.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\MvxNuExample.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Akavache.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Akavache.Sqlite3.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Fusillade.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\ModernHttpClient.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\MvvmCross.Binding.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\MvvmCross.Core.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\MvvmCross.Localization.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\MvvmCross.Platform.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Polly.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Punchclock.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\SkiaSharp.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Splat.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\SQLitePCLRaw.batteries_e_sqlite3.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Net.Http.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.Core.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.Linq.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Net.Primitives.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Akavache.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Akavache.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Akavache.Sqlite3.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Akavache.Sqlite3.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Fusillade.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Polly.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Polly.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\Punchclock.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\SkiaSharp.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Net.Http.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.Core.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.Linq.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\bin\Debug\System.Net.Primitives.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\obj\Debug\MvxNuExample.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\obj\Debug\MvxNuExample.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvxNuExample.dll.config
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvxNuExample.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvxNuExample.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Akavache.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Akavache.Sqlite3.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Fusillade.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\ModernHttpClient.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvvmCross.Binding.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvvmCross.Core.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvvmCross.Localization.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvvmCross.Platform.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Polly.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Punchclock.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Splat.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\SQLitePCLRaw.batteries_e_sqlite3.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Net.Http.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.Core.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.Linq.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Net.Primitives.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Akavache.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Akavache.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Akavache.Sqlite3.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Akavache.Sqlite3.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Fusillade.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Polly.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Polly.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\Punchclock.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Net.Http.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.Core.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.Linq.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\System.Net.Primitives.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\obj\Debug\MvxNuExample.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\obj\Debug\MvxNuExample.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\bin\Debug\MvvmCross.Plugins.Json.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\obj\Debug\MvxNuExample.csprojResolveAssemblyReference.cache

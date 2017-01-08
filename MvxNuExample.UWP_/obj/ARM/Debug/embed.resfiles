@@ -1,0 +1,9 @@
+App.xbf
+MainPage.xbf
+Styles\Styles.xbf
+Views\Base\MainView.xbf
+Views\FirstView.xbf
+Views\HomeView.xbf
+Views\Menu\MenuView.xbf
+Views\NewsDetailView.xbf
+Views\SplashView.xbf

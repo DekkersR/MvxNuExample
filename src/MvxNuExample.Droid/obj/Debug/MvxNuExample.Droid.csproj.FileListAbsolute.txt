@@ -1,0 +1,210 @@
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.dll.config
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.apk
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid-Signed.apk
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Akavache.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Fusillade.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\ModernHttpClient.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Binding.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Core.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Shared.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.Core.UI.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.Core.Utils.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.Fragment.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Localization.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Platform.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\OkHttp.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Polly.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Punchclock.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\SkiaSharp.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Splat.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.batteries_e_sqlite3.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.Core.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.Linq.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Net.Http.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Net.Primitives.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Akavache.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Akavache.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Fusillade.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Fusillade.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Polly.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Polly.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Polly.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Punchclock.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Punchclock.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\SkiaSharp.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\Splat.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.Core.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.Linq.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Net.Http.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\System.Net.Primitives.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.csprojResolveAssemblyReference.cache
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.dll
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.pdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\android\bin\MvxNuExample.Droid.apk
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\splashscreen.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\fragment_home.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\activity_main.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\toolbar_actionbar.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\menu\navigation_drawer.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\fragment_navigation.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\fragment_navigation_header.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\listitem_news.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\layout\main.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\values\strings.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\values\splashstyle.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\values\colors.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\values\dimens.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\values\styles.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\res\values-v21\styles.xml
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\R.cs.flag
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\uploadflags.txt
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.dll.mdb
+C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.dll.config
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.apk
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid-Signed.apk
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Akavache.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Fusillade.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\ModernHttpClient.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Binding.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Core.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Shared.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.Core.UI.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.Core.Utils.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.Fragment.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Localization.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Platform.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\OkHttp.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Polly.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Punchclock.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Splat.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.batteries_e_sqlite3.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.Core.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.Linq.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Net.Http.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Net.Primitives.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Akavache.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Akavache.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Akavache.Sqlite3.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Fusillade.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Fusillade.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Polly.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Polly.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Polly.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Punchclock.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Punchclock.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\Splat.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.Core.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.Linq.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Net.Http.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\System.Net.Primitives.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.csprojResolveAssemblyReference.cache
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.dll
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.pdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\android\bin\MvxNuExample.Droid.apk
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\splashscreen.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\fragment_home.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\activity_main.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\toolbar_actionbar.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\menu\navigation_drawer.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\fragment_navigation.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\fragment_navigation_header.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\listitem_news.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\layout\main.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\values\strings.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\values\splashstyle.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\values\colors.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\values\dimens.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\values\styles.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\res\values-v21\styles.xml
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\R.cs.flag
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\uploadflags.txt
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\obj\Debug\MvxNuExample.Droid.dll.mdb
+C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.Droid\bin\Debug\MvxNuExample.Droid.dll.mdb
