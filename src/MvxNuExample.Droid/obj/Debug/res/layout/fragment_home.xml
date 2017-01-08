@@ -1,9 +1,0 @@
-<RelativeLayout android:id="@+id/main_content" android:layout_width="match_parent" android:background="#4f6487" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:local="http://schemas.android.com/apk/res-auto"><include layout="@layout/toolbar_actionbar" /><MvxSwipeRefreshLayout android:id="@+id/refresher" android:layout_width="match_parent" android:layout_height="match_parent" local:layout_behavior="@string/appbar_scrolling_view_behavior" local:MvxBind="Refreshing IsRefreshing; RefreshCommand ReloadCommand"><MvxRecyclerView android:id="@+id/my_recycler_view" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" local:MvxItemTemplate="@layout/listitem_news" local:MvxBind="ItemsSource NewsItems; ItemClick OpenNewsItemCommand" /></MvxSwipeRefreshLayout><!--<TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/text_view_title"
-        android:singleLine="true"
-        local:MvxBind="Text Hello"
-        android:textColor="@color/black"
-        android:textSize="@dimen/text_large"
-        android:layout_gravity="center_vertical" />--></RelativeLayout>

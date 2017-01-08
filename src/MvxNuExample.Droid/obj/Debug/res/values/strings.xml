@@ -1,1 +1,0 @@
-<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">MvxNuExample.Droid</string><string name="drawer_open">Open navigation drawer</string><string name="drawer_close">Close navigation drawer</string><declare-styleable name="MvxRecyclerView"><attr name="MvxItemTemplateSelector" format="string" /></declare-styleable></resources>

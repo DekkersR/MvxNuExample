@@ -1,2 +1,0 @@
-C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample.WinPhone\MvxNuExample.WinPhone.csproj;arm
-C:\Users\rik_d\Documents\Visual Studio 2015\Projects\MvxNuExample\MvxNuExample\MvxNuExample.csproj;neutral

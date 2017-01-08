@@ -1,2 +1,0 @@
-C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample.UWP\MvxNuExample.UWP.csproj;arm
-C:\Users\rik_d\Source\Repos\MvxNuExample\src\MvxNuExample\MvxNuExample.csproj;neutral
